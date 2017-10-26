@@ -1,7 +1,9 @@
-img { width: 200px;
+img { width: 400px;
 }
 body {
     text-align: center; 
-    font-family: "Arial" ;
+    
+    font-family: "" ;
+    background-color: 	#e6e6e6
 }
 
